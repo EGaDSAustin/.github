@@ -8,7 +8,7 @@ EGaDS! is a student organization at the University of Texas at Austin. We are a 
 * [Read tweets from our EGaDSians!](https://twitter.com/egadsaustin)
 * [Catch up on news and the progress of our upcoming games](https://egads.club/discord)
 
-Visit [egads.club](https://egads.club) to learn more!
+Visit [egads.club](https://egadsclub.org) to learn more!
 
 ----
 
